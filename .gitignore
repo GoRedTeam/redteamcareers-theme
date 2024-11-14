@@ -1,0 +1,7 @@
+# Node modules for TailwindCSS
+node_modules/
+
+# Editor directories
+.vscode/
+.history/
+.idea/

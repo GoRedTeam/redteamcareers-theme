@@ -1,0 +1,33 @@
+name: "Red Team Careers"
+license: ""
+licenselink: "https://github.com/GoRedTeam/redteamcareers-theme/blob/main/LICENSE"
+description: "A theme for the Red Team Careers site"
+homepage: "https://github.com/GoRedTeam/redteamcareers-theme"
+
+tags:
+  - blog
+
+features:
+  - "Dark mode"
+  - "Syntax highlighting"
+  - "RSS feed"
+  - "Open Graph protocol"
+  - "Twitter card"
+  - "SEO"
+  - "Sitemap"
+  - "Robots.txt"
+  - "404 page"
+  - "Search"
+  - "Pagination"
+  - "Tags"
+  - "Categories"
+  - "Authors"
+  - "Archives"
+
+authors:
+  - name: "Justin Wagner"
+    homepage: "https://github.com/0xDezzy"
+    github: "0xDezzy"
+    twitter: "0xDezzy"
+    email: "Justin@goredteam.net"
+    description: "A security researcher and developer."
